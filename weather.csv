@@ -1,0 +1,11 @@
+city,temp_C,feels_like_C,description,humidity,wind_m_s
+Tokyo,13.2,12.17,clear sky,61,4.63
+London,15.61,15.26,overcast clouds,78,4.92
+New York,10.0,6.88,clear sky,57,7.2
+Sydney,15.89,14.71,clear sky,45,5.14
+Mumbai,27.99,31.77,haze,78,4.63
+Rio de Janeiro,23.98,24.6,broken clouds,83,4.63
+Paris,15.4,14.82,clear sky,70,4.12
+Cairo,33.42,31.44,clear sky,21,2.57
+Moscow,9.08,6.92,overcast clouds,87,3.89
+Toronto,4.69,-0.65,clear sky,75,9.39
