@@ -20,7 +20,7 @@ Its a simple script used to practice API data extraction. The API used is from `
 
 Before running the script, ensure you have the following:
 
-1.  **Python 3 installed on your system.
+1.  Python 3 installed on your system.
 2.  Register on `https://openweathermap.org/` and get your API key.
 
 ---
